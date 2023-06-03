@@ -1,0 +1,14 @@
+.pk-form{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.pk-input{
+    border-radius: 10px;
+    border: 0;
+    width: 240px;
+    height: 20px;
+    padding: 3px;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.6);
+}

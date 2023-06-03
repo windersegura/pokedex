@@ -1,0 +1,16 @@
+.pk-main-card{
+    display: flex;
+    margin-top: 40px;
+    width: 30%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #acacac;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.6);
+}
+
+.pk-main-img{
+    width: 300px;
+}

@@ -1,0 +1,16 @@
+.pk-header-details{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    background-color: #e94949;
+    place-content: center;
+}
+
+.pk-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pk-image img{
+    width: 150px;
+}
